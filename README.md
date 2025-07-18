@@ -13,3 +13,9 @@ Let's now try to `rebsae` main onto a branch, to add the contents of said branch
 This content comes from the commit made on `feature/AddRebaseReadmeContent`.
 This content comes from the commit made on `main`.
 
+### Exercise 3
+
+The same thing, but this time the branch was rebased onto `main` *before* `main` was rebased onto the branch. 
+This is the commit from `main`.
+
+
