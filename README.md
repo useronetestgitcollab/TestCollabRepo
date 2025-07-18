@@ -19,3 +19,8 @@ The same thing, but this time the branch was rebased onto `main` *before* `main`
 This is the commit from `main`.
 This is the commit from `feature/AddRebase2ReadmeContent`.
 
+### Exercise 4
+
+Testing git reset. The next commit is a dummy one, meant to be deleted, both from local and remote.
+
+
