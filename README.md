@@ -27,3 +27,5 @@ Testing git reset. The next commit is a dummy one, meant to be deleted, both fro
 
 Testing git revert. The next commit is a dummy one, meant to be reverted, the commit after the next one should be simmilar to this one.
 
+THis line is meant to be reverted in the following commit.
+
