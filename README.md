@@ -23,4 +23,7 @@ This is the commit from `feature/AddRebase2ReadmeContent`.
 
 Testing git reset. The next commit is a dummy one, meant to be deleted, both from local and remote.
 
+### Exercise 5
+
+Testing git revert. The next commit is a dummy one, meant to be reverted, the commit after the next one should be simmilar to this one.
 
