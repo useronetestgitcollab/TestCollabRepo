@@ -33,3 +33,10 @@ This is the commit from main. Two commits are about to be cherry-picked on top o
 This is the first commit that's going to be cherry-picked on master.
 This is the second commit that's going to be cherry-picked on master.
 
+### Exercise 7
+
+This is the first commit that's going to get rebased onto master using interactive rebase.
+
+This is the seccond commit, a dummy one that's going to be skipped during the interactive rebase.
+
+This is the third commit that's going to get rebased onto master using interactive rebase. This commit will become the first one after the rebase.
