@@ -31,3 +31,5 @@ Testing git revert. The next commit is a dummy one, meant to be reverted, the co
 
 This is the commit from main. Two commits are about to be cherry-picked on top of this.
 This is the first commit that's going to be cherry-picked on master.
+This is the second commit that's going to be cherry-picked on master.
+
