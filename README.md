@@ -36,3 +36,5 @@ This is the second commit that's going to be cherry-picked on master.
 ### Exercise 7
 
 This is the first commit that's going to get rebased onto master using interactive rebase.
+
+Thisis the seccond commit, a dummy one that's going to be skipped during the interactive rebase.
