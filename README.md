@@ -30,3 +30,4 @@ Testing git revert. The next commit is a dummy one, meant to be reverted, the co
 ### Exercise 6
 
 This is the commit from main. Two commits are about to be cherry-picked on top of this.
+This is the first commit that's going to be cherry-picked on master.
