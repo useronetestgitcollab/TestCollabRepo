@@ -37,4 +37,6 @@ This is the second commit that's going to be cherry-picked on master.
 
 This is the first commit that's going to get rebased onto master using interactive rebase.
 
-Thisis the seccond commit, a dummy one that's going to be skipped during the interactive rebase.
+This is the seccond commit, a dummy one that's going to be skipped during the interactive rebase.
+
+This is the third commit that's going to get rebased onto master using interactive rebase. This commit will become the first one after the rebase.
