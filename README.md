@@ -35,12 +35,16 @@ This is the second commit that's going to be cherry-picked on master.
 
 ### Exercise 7
 
-<<<<<<< HEAD
 This is the first commit that's going to get rebased onto master using interactive rebase.
 
 This is the seccond commit, a dummy one that's going to be skipped during the interactive rebase.
 
 This is the third commit that's going to get rebased onto master using interactive rebase. This commit will become the first one after the rebase.
-=======
-This is the first commit that's going to get rebased onto master using interactive rebase.
->>>>>>> 2a64384 (First commit used for rebase -i)
+
+
+## Exercise 8
+
+Testing git pull. 
+This commit will be kept on local for now. 
+The other user will make a commit that's going to be pushed to remote.
+Once we run git pull we should see the merge action
