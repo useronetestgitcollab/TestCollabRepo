@@ -53,3 +53,10 @@ This commit will be pushed to remote.
 The other user, who has a commit that's not pushed to remote, will run git pull.
 We should see a merge happening afterwards.
 
+### Ecercise 9
+
+Testing git pull --rebase.
+
+This commit will be pushed to remote.
+The other user, who has a commit that's not pushed to remote, will run git pull --rebase.
+We should see a rebase happening afterwards.
