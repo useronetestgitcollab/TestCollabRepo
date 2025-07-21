@@ -57,6 +57,10 @@ We should see a merge happening afterwards.
 
 Testing git pull --rebase.
 
+This commit will be kept local for now.
+The other user will make a commit that's going to be pushed to remote.
+Once we run git pull --rebase we should see the rebase action.
+
 This commit will be pushed to remote.
 The other user, who has a commit that's not pushed to remote, will run git pull --rebase.
 We should see a rebase happening afterwards.
