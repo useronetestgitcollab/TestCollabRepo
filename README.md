@@ -41,10 +41,15 @@ This is the seccond commit, a dummy one that's going to be skipped during the in
 
 This is the third commit that's going to get rebased onto master using interactive rebase. This commit will become the first one after the rebase.
 
-
-## Exercise 8
+### Exercise 8
 
 Testing git pull. 
+
 This commit will be kept on local for now. 
 The other user will make a commit that's going to be pushed to remote.
-Once we run git pull we should see the merge action
+Once we run git pull we should see the merge action.
+
+This commit will be pushed to remote.
+The other user, who has a commit that's not pushed to remote, will run git pull.
+We should see a merge happening afterwards.
+
