@@ -74,3 +74,4 @@ Testing git pull. The exercise goes as follows:
 4) This is the second user, making a new branch called feature/newBranch and making a commit on it. 
 5) After getting pushed to remote, we'll run git pull origin feature/newBranch while being checked out on main.
 
+Same exercise, this is the commit that's being pushed to remote.
