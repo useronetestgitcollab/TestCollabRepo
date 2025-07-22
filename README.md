@@ -64,3 +64,12 @@ Once we run git pull --rebase we should see the rebase action.
 This commit will be pushed to remote.
 The other user, who has a commit that's not pushed to remote, will run git pull --rebase.
 We should see a rebase happening afterwards.
+
+
+### Exercise 10
+
+Testing git pull. The exercise goes as follows:
+1) This account makes a commit on main, without pushing it to remote.
+2) This account makes a commit on a new branch, pushing it to remote.
+3) Being checked out on main, we run git pull origin branch.
+
