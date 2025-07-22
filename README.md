@@ -64,3 +64,7 @@ Once we run git pull --rebase we should see the rebase action.
 This commit will be pushed to remote.
 The other user, who has a commit that's not pushed to remote, will run git pull --rebase.
 We should see a rebase happening afterwards.
+
+4) This is the second user, making a new branch called feature/newBranch and making a commit on it. 
+5) After getting pushed to remote, we'll run git pull origin feature/newBranch while being checked out on main.
+
