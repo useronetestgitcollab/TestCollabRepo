@@ -53,7 +53,7 @@ This commit will be pushed to remote.
 The other user, who has a commit that's not pushed to remote, will run git pull.
 We should see a merge happening afterwards.
 
-### Ecercise 9
+### Exercise 9
 
 Testing git pull --rebase.
 
@@ -65,11 +65,12 @@ This commit will be pushed to remote.
 The other user, who has a commit that's not pushed to remote, will run git pull --rebase.
 We should see a rebase happening afterwards.
 
-
 ### Exercise 10
 
 Testing git pull. The exercise goes as follows:
 1) This account makes a commit on main, without pushing it to remote.
 2) This account makes a commit on a new branch, pushing it to remote.
 3) Being checked out on main, we run git pull origin branch.
+4) This is the second user, making a new branch called feature/newBranch and making a commit on it. 
+5) After getting pushed to remote, we'll run git pull origin feature/newBranch while being checked out on main.
 
